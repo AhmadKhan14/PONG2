@@ -1,0 +1,125 @@
+
+.nav-link{
+  margin: 0 20px;
+  font-size: 1.2rem;
+  font-family: "Outfit";
+}
+
+.navbar-brand{
+  font-size: 2.2rem;
+  font-family: "Outfit";
+}
+
+.home-pageh1{
+  text-align: center;
+  margin-top: 25px;
+  font-size: 5rem;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+  font-family: "Outfit";
+  text-align: center;
+}
+
+hr{
+ border: dotted grey 6px;
+ border-bottom: none;
+ width: 5%;
+ margin: 100px auto 100px auto;
+}
+
+.P-subtitle{
+  text-align: center;
+  margin: 0 500px;
+  font-family: "Montserrat";
+  margin-bottom: 100px;
+}
+
+.testimonial-text {
+  font-size: 2.4rem;
+  line-height: 1.5;
+  margin-top: 2rem;
+}
+
+.testimonial-text2 {
+  font-size: 2.4rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  margin-top: 20px;
+}
+
+.testimonial-image2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18.48%;
+  margin-top: 20px;
+}
+
+#testimonial-carousel{
+  background-color: #5EE6EB;
+  margin-bottom: 300px;
+}
+
+.species-img{
+  float: left;
+  margin-left: 50px;
+  margin-right: 20px;
+}
+
+.species-p{
+  text-align: left;
+  margin-bottom: 150px;
+  margin-right: 700px;
+}
+
+.species-header{
+  text-align: left;
+}
+
+.species-img2{
+ float: right;
+ margin-right: 50px;
+ margin-left: 20px;
+}
+
+.species-p2{
+  text-align: right;
+  margin-bottom: 150px;
+  margin-left: 700px;
+}
+
+.species-header2{
+  text-align: right;
+}
+
+/* .ukraine{
+  width: 100%;
+  height: 40px;
+  color: #fff;
+  background-color: #4C3F91;
+} */
+
+.pricing-column{
+
+}
+
+.home-pageh2{
+  text-align: center;
+  margin-top: 150px;
+  font-size: 4rem;
+}
+
+.testimonial-image3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 26.17%;
+  margin-top: 20px;
+}
